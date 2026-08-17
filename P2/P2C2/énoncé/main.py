@@ -12,7 +12,7 @@ print("Les elements de la liste sont :", liste)
 liste_en_entiers = []
 for nombre in liste:
   nombre_entiers = int(nombre)
-  liste_en_entiers.append(nombre_entiers)
+  liste_en_entiers.append(nombre_entiers)  
 
 #Calcul du somme des nombres 
 sum = 0
